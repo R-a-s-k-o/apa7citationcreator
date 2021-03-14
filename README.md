@@ -1,4 +1,4 @@
-# apa7citationcreator
+# apa7 citation creator
 USAGE
 
 The codes, get input from a excel file called input.
